@@ -4,17 +4,18 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: 38123,
-                nome: "Fulano Vereador1",
-                partido: "PT",
+                numero: "33333",
+                nome: "Snorlax",
+                partido: "Niantic",
+                vice: "",
                 fotos: [
-                    {url: "v2.jpg", legenda: "Vereador"}
+                    {url: "snorlax.png", legenda: "Vereador"}
                 ]
             },
             {
-                numero: 38423,
-                nome: "Fulano Vereador2",
-                partido: "PSDB",
+                numero: "22222",
+                nome: "Fulano Vereador 2",
+                partido: "ABC",
                 fotos: [
                     {url: "v1.jpg", legenda: "Vereador"}
                 ]
@@ -26,17 +27,17 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 13,
-                nome: "LULA",
-                partido: "PT",
-                vice: "cic",
+                numero: "89",
+                nome: "Homer Simpson",
+                partido: "FOX",
+                vice: "Maggie Simpson",
                 fotos: [
-                    {url: "l1.jpg", legenda: "PRESIDENTE"},
-                    {url: "v1.jpg", legenda: "VICE-PRESIDENTE", small:true}
+                    {url: "simps.jpg", legenda: "PRESIDENTE"},
+                    {url: "mag.jpg", legenda: "VICE-PRESIDENTE", small:true}
                 ]
             },
             {
-                numero: 17,
+                numero: "17",
                 nome: "BOLSONARO",
                 partido: "SLA",
                 vice: "Mouro",
