@@ -37,10 +37,10 @@ let etapas = [
                 ]
             },
             {
-                numero: "17",
-                nome: "BOLSONARO",
+                numero: "",
+                nome: "",
                 partido: "SLA",
-                vice: "Mouro",
+                vice: "",
                 fotos: [
                     {url: "b2.jpg", legenda: "Vereador"},
                     {url: "v1.jpg", legenda: "VICE-PRESIDENTE", small:true}
